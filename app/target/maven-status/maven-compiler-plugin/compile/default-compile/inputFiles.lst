@@ -1,0 +1,16 @@
+/mvn-src/src/main/java/org/onosproject/srv6_usid/L2BridgingComponent.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/cli/UAInsertCommand.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/cli/Srv6SidCompleter.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/Srv6Component.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/common/Utils.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/NdpReplyComponent.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/pipeconf/InterpreterImpl.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/common/Srv6DeviceConfig.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/pipeconf/PipelinerImpl.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/cli/RouteInsertCommand.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/cli/Srv6ClearCommand.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/pipeconf/PipeconfLoader.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/cli/Srv6InsertCommand.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/Ipv6RoutingComponent.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/MainComponent.java
+/mvn-src/src/main/java/org/onosproject/srv6_usid/AppConstants.java
