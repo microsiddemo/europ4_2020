@@ -15,7 +15,7 @@ This repository is structured as follows:
  * `video/` contains a record of a DEMO for the two use cases
 
 ## DEMO overview
-![demo-topology.png](<./demo-topology.png>)
+![demo-topology.png](<./demo-topology.PNG>)
 
 The demo runs on a mininet topology made up of fourteen P4 enabled switches (based on [bmv2](https://github.com/p4lang/behavioral-model) P4 software implementation) and two hosts that represent Site A and Site B. For this demo we rely on static routing for simplicity.
 
